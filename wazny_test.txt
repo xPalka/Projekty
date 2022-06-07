@@ -1,0 +1,21 @@
+
+lpp
+  1n1s1g1K1g1s1n1l
+  1r          1b  
+2L  1p1p1p1p1p1p1p
+  1p              
+                  
+                  
+  2p2p2p2p2p2p2p2p
+  2b          2r  
+  2n2s2g2K2g2s2n2l
+2
+c1-d1
+g1-f1
+d1-e1
+f1-e1
+a1-e1
+i1-e1
+p*-c1
+e1-c1
+c2-d2

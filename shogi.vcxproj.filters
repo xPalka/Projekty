@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Figury">
+      <UniqueIdentifier>{399188a2-4459-4c9e-9853-d9fc09699d6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Reszta">
+      <UniqueIdentifier>{10eea4a1-e13b-4340-8943-3d4ada12391a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Funkcje">
+      <UniqueIdentifier>{f175ed2e-c9a4-4445-adac-53af3f087fc4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cppm">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="figuryGracza.ixx">
+      <Filter>Pliki źródłowe\Reszta</Filter>
+    </ClCompile>
+    <ClCompile Include="include.ixx">
+      <Filter>Pliki źródłowe\Reszta</Filter>
+    </ClCompile>
+    <ClCompile Include="logs.ixx">
+      <Filter>Pliki źródłowe\Reszta</Filter>
+    </ClCompile>
+    <ClCompile Include="pole.ixx">
+      <Filter>Pliki źródłowe\Reszta</Filter>
+    </ClCompile>
+    <ClCompile Include="pion.ixx">
+      <Filter>Pliki źródłowe\Figury</Filter>
+    </ClCompile>
+    <ClCompile Include="goniec.ixx">
+      <Filter>Pliki źródłowe\Figury</Filter>
+    </ClCompile>
+    <ClCompile Include="krol.ixx">
+      <Filter>Pliki źródłowe\Figury</Filter>
+    </ClCompile>
+    <ClCompile Include="lanca.ixx">
+      <Filter>Pliki źródłowe\Figury</Filter>
+    </ClCompile>
+    <ClCompile Include="skoczek.ixx">
+      <Filter>Pliki źródłowe\Figury</Filter>
+    </ClCompile>
+    <ClCompile Include="srebrnyGeneral.ixx">
+      <Filter>Pliki źródłowe\Figury</Filter>
+    </ClCompile>
+    <ClCompile Include="wieza.ixx">
+      <Filter>Pliki źródłowe\Figury</Filter>
+    </ClCompile>
+    <ClCompile Include="zlotyGeneral.ixx">
+      <Filter>Pliki źródłowe\Figury</Filter>
+    </ClCompile>
+    <ClCompile Include="pole_code.ixx">
+      <Filter>Pliki źródłowe\Reszta</Filter>
+    </ClCompile>
+    <ClCompile Include="figury.ixx">
+      <Filter>Pliki źródłowe\Reszta</Filter>
+    </ClCompile>
+    <ClCompile Include="funkcje_ogl.ixx">
+      <Filter>Pliki źródłowe\Funkcje</Filter>
+    </ClCompile>
+    <ClCompile Include="interfejs_urzytkowinka.ixx">
+      <Filter>Pliki źródłowe\Funkcje</Filter>
+    </ClCompile>
+    <ClCompile Include="wczytywanie_i_zapis.ixx">
+      <Filter>Pliki źródłowe\Funkcje</Filter>
+    </ClCompile>
+    <ClCompile Include="zasady_koniec_reszta.ixx">
+      <Filter>Pliki źródłowe\Funkcje</Filter>
+    </ClCompile>
+    <ClCompile Include="SFEN_USI_gra.ixx">
+      <Filter>Pliki źródłowe\Funkcje</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bot-process.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

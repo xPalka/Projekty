@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Figura" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAIAACAAAAAAAAAAAABAAACAAEABARAAEAAAAIQA=</HashCode>
+      <FileName>figury.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Goniec">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAgAAAAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>goniec.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Krol">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEACAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>krol.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lanca">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAEACAAAAAAAAAEAAAAAAAAgAAAAA=</HashCode>
+      <FileName>lanca.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pion">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIEACAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pionek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pole" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gRQAEAEAggAAACYgEDAAoAiIEAAEAAAI9cBhIAAAIAA=</HashCode>
+      <FileName>pole.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skoczek">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEACAAgAAAEAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>skoczek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mGeneral">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAFACAAAAAAAAAEAAAAAACAAAAAAA=</HashCode>
+      <FileName>srebrnyGeneral.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wieza">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAQAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>wieza.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dGeneral">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAIEACAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>zlotyGeneral.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logs" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAUAQAAAAAgAAAAQgAAQAABYASAAEAAIABAAAAAA=</HashCode>
+      <FileName>logs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FiguryGracza" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goAAAAgBACABEAAAABAgDIAAAAABgAAYVfBxIAAAAAQ=</HashCode>
+      <FileName>FiguryGracza.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="botShogi" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAEAMAgIAACIBAHAAAAAAAAAAACCAIABAAAAAABA=</HashCode>
+      <FileName>bot-process.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Gracz" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>include.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Promocja" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
